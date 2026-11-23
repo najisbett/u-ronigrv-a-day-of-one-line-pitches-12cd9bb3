@@ -1,0 +1,1 @@
+I shipped a two-file page that turns one spare GPU into a tip jar for the plumber on my street: thirty lines, no framework, and it took eleven dollars before breakfast.
